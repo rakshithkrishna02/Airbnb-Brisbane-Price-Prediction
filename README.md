@@ -52,12 +52,12 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
    pip install -r requirements.txt
    ```
 2. Download `train.csv` and `test.csv` from the competition and place them in a `Dataset/` folder (the data is not included in this repository).
-3. Open `airbnb_price_prediction.ipynb` in Jupyter and run all cells.
+3. Open `Airbnb Price Prediction.ipynb` in Jupyter and run all cells.
 
 ## Team
 
 Group project by team **BUSA8001_Gaggle**:
 
-- Harisha Sundaram: problem description and EDA
-- **Rakshith Krishna Suresh Hema: data cleaning and feature engineering**
-- Jarernrat Srimaothongsuk: model fitting, tuning and prediction
+- Harisha Sundaram: Problem description and EDA
+- **Rakshith Krishna Suresh Hema: Data cleaning and feature engineering**
+- Jarernrat Srimaothongsuk: Model fitting, tuning and prediction
